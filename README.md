@@ -1,3 +1,2 @@
 # zaliczenie
-Bartłomiej Wierzchoś 24185
-grupa C1
+Bartłomiej Wierzchoś 24185 Grupa C1
